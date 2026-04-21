@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/yxhu08/LeetCode_Probelms/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yxhu08/LeetCode_Probelms/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0733-flood-fill](https://github.com/yxhu08/LeetCode_Probelms/tree/master/0733-flood-fill) |
+| [0867-transpose-matrix](https://github.com/yxhu08/LeetCode_Probelms/tree/master/0867-transpose-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/yxhu08/LeetCode_Probelms/tree/master/0733-flood-fill) |
+| [0867-transpose-matrix](https://github.com/yxhu08/LeetCode_Probelms/tree/master/0867-transpose-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yxhu08/LeetCode_Probelms/tree/master/0350-intersection-of-two-arrays-ii) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/yxhu08/LeetCode_Probelms/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
