@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/yxhu08/LeetCode_Probelms/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/yxhu08/LeetCode_Probelms/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/yxhu08/LeetCode_Probelms/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/yxhu08/LeetCode_Probelms/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0733-flood-fill](https://github.com/yxhu08/LeetCode_Probelms/tree/master/0733-flood-fill) |
 ## Two Pointers
 |  |
@@ -15,10 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/yxhu08/LeetCode_Probelms/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/yxhu08/LeetCode_Probelms/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/yxhu08/LeetCode_Probelms/tree/master/0344-reverse-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/yxhu08/LeetCode_Probelms/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/yxhu08/LeetCode_Probelms/tree/master/0088-merge-sorted-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/yxhu08/LeetCode_Probelms/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Math
 |  |
 | ------- |
@@ -57,4 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/yxhu08/LeetCode_Probelms/tree/master/0733-flood-fill) |
+## Hash Table
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/yxhu08/LeetCode_Probelms/tree/master/0350-intersection-of-two-arrays-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/yxhu08/LeetCode_Probelms/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
